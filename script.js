@@ -12,7 +12,7 @@ window.onload = function ()
            ); 
        
        L.tileLayer("https://api.maptiler.com/maps/streets/256/{z}/{x}/{y}.png?key=xWat2TM18Ft8CQrHLee1", {
-           attribution:'&copy; MapTiler</a> <a href="https://www.openstreetmap.org/copyright" target="_blank">&copy; OpenStreetMap contributors</a> | Author: Samwel Oteyo ENC222-0163/2017 '
+           attribution:'&copy; MapTiler</a> <a href="https://www.openstreetmap.org/copyright" target="_blank">&copy; OpenStreetMap contributors</a> | Author: Samuel Oteyo ENC222-0163/2017 '
        }).addTo(map);
        
    
